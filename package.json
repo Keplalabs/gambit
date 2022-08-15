@@ -1,0 +1,14 @@
+{
+  "name": "gambit",
+  "version": "1.0.0",
+  "description": "webrtc media server",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "alexmagwe",
+  "license": "MIT"
+}
